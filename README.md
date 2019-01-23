@@ -34,14 +34,15 @@ OSSとする部分においては、使用者に遵守していただく点な�
 
 ## 開発者
 
-| **開発者** | **開発内容** |
-| --- | --- |
-| Rintan Broadleaf | オーナー、サーバー開発 |
-| UK (DoS Project) | 開発責任者、サーバー、モバイル開発 |
-| 無能ヌッコ | モバイル開発 |
-| Sanaeharu | ウェブ開発 |
-| Black Square | ウェブ開発 |
-| Hibiki Cube | ウェブ開発 |
+| **開発者** | **役職** | **開発内容** |
+| --- | --- | --- |
+| Rintan Broadleaf | Owner | Server Development |
+| UK (DoS Project) | Maintainer | Mobile, Sever Development |
+| 無能ヌッコ | Developer | Mobile Development |
+| Sanaeharu | Developer | Web Development |
+| Black Square | Developer | Web Development |
+| Hibiki Cube | Developer | Web Development |
+| Shouki Mitani | Developer | Web Development|
 
 ## ライセンスについて
 
