@@ -26,11 +26,11 @@ OSSとする部分においては、使用者に遵守していただく点な�
 ## Mobile
 [README.md](https://github.com/GpNext/GpNext/blob/master/src/mobile/README.md)
 
-## Web
-
+## Website
+[README.md](https://github.com/GpNext/GpNext/blob/master/src/website/README.md)
 
 ## Server
-
+[README.md](https://github.com/GpNext/GpNext/blob/master/src/server/README.md)
 
 ## 開発者
 
