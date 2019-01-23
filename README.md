@@ -24,7 +24,7 @@ OSSとする部分においては、使用者に遵守していただく点な�
 ## GPNext開発内容
 
 ## Mobile
-
+[README.md](https://github.com/GpNext/GpNext/blob/master/src/mobile/README.md)
 
 ## Web
 
