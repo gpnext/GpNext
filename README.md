@@ -37,7 +37,7 @@ OSSとする部分においては、使用者に遵守していただく点な�
 | **開発者** | **役職** | **開発内容** |
 | --- | --- | --- |
 | Rintan Broadleaf | Owner | Server Development |
-| UK (DoS Project) | Maintainer | Mobile, Sever Development |
+| UK (DoS Project) | Project Manager | Mobile, Sever Development |
 | 無能ヌッコ | Developer | Mobile Development |
 | Sanaeharu | Developer | Web Development |
 | Black Square | Developer | Web Development |
