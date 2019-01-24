@@ -1,6 +1,6 @@
 # GPNext
 
-![](https://gpnext-web.firebaseapp.com/src/img/GPNext-logo.png)
+![](https://gpnext-web.firebaseapp.com/src/img/glogo.png)
 
 ## 改訂履歴
 
